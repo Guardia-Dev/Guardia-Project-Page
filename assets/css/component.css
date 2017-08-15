@@ -423,6 +423,7 @@ body {
 	.content__item-img {
 		max-width: calc(100% - 80px);
 		max-height: 70vh;
+		display: -webkit-inline-box;
 	}
 	.content h2 {
 		font-size: 3em;

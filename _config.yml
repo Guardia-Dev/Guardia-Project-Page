@@ -22,6 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 image_url: "assets/images/"
+blog_url: "http://desgard.com/"
 twitter_username: jekyllrb
 github_username:  jekyll
 

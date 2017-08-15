@@ -415,6 +415,27 @@ body {
 	transition-duration: 1.7s;
 }
 
+.header {
+	width: 100%;
+	height: 30px;
+}
+
+.header h1 {
+	color: white;
+	left: 2em;
+	top: 1.2em;
+	font-size: 1.25em;
+	text-transform: lowercase;
+	height: inherit;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 0;
+	text-indent: 0;
+	position: absolute;
+	font-family: "Droid Sans",Helvetica,sans-serif;
+	font-weight: 700;
+}
+
 /* Media Queries */
 @media screen and (max-width: 50em) {
 	.content__item {

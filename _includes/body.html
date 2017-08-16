@@ -10,7 +10,15 @@
         <div style="text-align:center;clear:both;">
             <section class="slider">
                 {% for post in site.posts %}
-                    {% include proj-preview.html %}
+                    {% if forloop.index == 1 %}
+                        <div class="slide slide--current" data-content="content-{{ forloop.index }}">
+                            {% include proj-preview.html %}
+                        </div>
+                    {% else %}
+                        <div class="slide" data-content="content-{{ forloop.index }}">
+                            {% include proj-preview.html %}
+                        </div>
+                    {% endif %}
                 {% endfor %}
                 <nav class="slider__nav">
                     <button class="button button--nav-prev"><i class="icon icon--arrow-left"></i><span class="text-hidden">Previous product</span></button>
@@ -20,7 +28,9 @@
             </section>
             <section class="content">
                 {% for post in site.posts %}
-                    {% include proj-detail.html %}
+                    <div class="content__item" id="content-{{ forloop.index }}">
+                        {% include proj-detail.html %}
+                    </div>
                 {% endfor %}
                 <button class="button button--close">
                     <i class="icon icon--circle-cross"></i>

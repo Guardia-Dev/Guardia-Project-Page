@@ -1,35 +1,24 @@
 ## Guardia-Project
 
 
+## Introduce
 
-### Markdown
+This is the jekyll theme to introduce personal project. To show the product for one person or an company. Which can construct in github page for free. 🎈
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Demo: [Guardia Project](http://project.desgard.com/)
 
-```markdown
-Syntax highlighted code block
+## Screenshot
 
-# Header 1
-## Header 2
-### Header 3
+![](http://i2.bvimg.com/600799/38018bfb463acbe4.png)
 
-- Bulleted
-- List
+## Usage
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+$ git clone https://github.com/Guardia-Dev/Guardia-Project-Page.git
+$ cd Giardia-Project-Page
+$ jekyll s
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## GNU General Public License v3.0
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Guardia-Dev/Guardia-Project-Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.

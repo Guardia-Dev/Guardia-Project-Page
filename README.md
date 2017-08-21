@@ -1,5 +1,8 @@
 ## Guardia-Project
 
+[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/Guardia-Dev/Guardia-Project-Page/master/LICENSE)
+[![Jekyll Version](https://img.shields.io/badge/jekyll-2.5.3-red.svg)](https://jekyllrb.com/)
+[![Guardia](https://img.shields.io/badge/%F0%9F%8D%89%20Guardia%20-Component-orange.svg)](http://desgard.com/)
 
 ## Introduce
 

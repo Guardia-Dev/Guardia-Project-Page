@@ -19,7 +19,8 @@ Demo: [Guardia Project](http://project.desgard.com/)
 ```bash
 $ git clone https://github.com/Guardia-Dev/Guardia-Project-Page.git
 $ cd Giardia-Project-Page
-$ jekyll s
+$ bundle install
+$ bundle exec jekyll s
 ```
 
 ## GNU General Public License v3.0

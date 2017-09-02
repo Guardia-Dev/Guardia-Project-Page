@@ -1,0 +1,20 @@
+---
+device:  "iphone"
+preview_image: "drink-up-content-preview.png"
+detail_image: "drink-up-content.png"
+title: "Drink Up"
+subtitle: "Hack Nanjing - 4th Winning Work."
+year: "2017"
+author: "UP Hackthon"
+excerpt_separator: <!--END-->
+---
+
+<a href="https://github.com/Hacker-UP/drink-up">
+    <img src="/assets/images/github-logo.svg" width="30px"/>
+</a>
+
+The water crisis is used by the United Nations and other international organizations to refer to the situation of world-wide water resources relative to human needs since 1970. The main source of crisis is the scarcity of available water.
+
+`Drink Up` can quantify the amount of water in the bottle, in order to save every drop of water and drink it up!
+
+<!--END-->

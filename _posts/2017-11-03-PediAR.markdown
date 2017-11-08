@@ -1,0 +1,16 @@
+---
+device:  "iphone"
+preview_image: "pediar-content-preview.png"
+detail_image: "pediar-content.png"
+title: "PediAR"
+subtitle: "Tap the screen, know the world. <br />(HackxFdu Top 9)"
+year: "2017"
+author: "Desgard_Duan, songkuixi"
+excerpt_separator: <!--END-->
+---
+
+<a href="https://github.com/Hacker-UP/PediAR">
+    <img src="/assets/images/github-logo.svg" width="30px"/>
+</a>
+
+There are many things we absolutely ignorant in life. PediAR is a AR App based on iOS platform, which uses IBM Watson to identify objects pointing. And through the aggregation of QingCloud cloud server, search accurate information on the Wikipedia, to help users accurately understand those unknown things in life. PediAR is a real general material Wikipedia book. And its accurate Web link function can also be extended to other industries, such as cognitive products.
